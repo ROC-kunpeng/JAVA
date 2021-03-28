@@ -12,7 +12,7 @@ public class Hello{
 			frequency++;
 			System.out.println("number="+number+"frequency="+frequency);
 		}while(number>0);
-	System.out.println("该数字位数为："+frequency);
+	System.out.println("count="+frequency);
 	}
 	
 }
